@@ -1,0 +1,9 @@
+name: WallMaker
+version: '${project.version}'
+main: xyz.naphy.wallmaker.WallMaker
+api-version: '1.19'
+author: naphy
+commands:
+  givebricks:
+    description: Gives bricks.
+    usage: /<command> <args>
